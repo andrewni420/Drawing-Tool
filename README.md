@@ -1,5 +1,5 @@
 # Drawing-Tool
-Final Project for Intro to Computer Science class. Loosely inspired by ChemDraw and LaTeX's asymptote package.
+Final Project for Intro to Computer Science class. A Drawing Tool using Princeton's StdDraw library inspired by ChemDraw and LaTeX's asymptote package.
 
 ####### Instructions ######
  - Hover over the toolbar to see tooltips
